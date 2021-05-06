@@ -1,0 +1,816 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"im",
+				"border-image\tproperty"
+			],
+			[
+				"tex",
+				"text-align\tproperty"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"back",
+				"background\tproperty"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"Pa",
+				"Passaro"
+			],
+			[
+				"cons",
+				"constructor"
+			],
+			[
+				"consultar",
+				"consultarSaldo"
+			],
+			[
+				"consu",
+				"consultarSaldo"
+			],
+			[
+				"par",
+				"parOuImpar"
+			],
+			[
+				"posi",
+				"posicaoy"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"li",
+				"lista_numeros"
+			],
+			[
+				"lis",
+				"lista_frutas"
+			],
+			[
+				"list",
+				"lista_frutas"
+			],
+			[
+				"valor",
+				"valor_campo"
+			],
+			[
+				"he",
+				"height"
+			],
+			[
+				"apenas",
+				"apenas_numeros"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"onkey",
+				"onkeyup\tAttr"
+			],
+			[
+				"onres",
+				"onresize\tAttr"
+			],
+			[
+				"onmouse",
+				"onmouseup\tAttr"
+			],
+			[
+				"re",
+				"resultado"
+			],
+			[
+				"N",
+				"N1"
+			],
+			[
+				"mili",
+				"milissegundos_por_dias"
+			],
+			[
+				"milis",
+				"milissegundos"
+			],
+			[
+				"milissegundos",
+				"milissegundos_entre_datas"
+			],
+			[
+				"data",
+				"data2"
+			],
+			[
+				"t",
+				"toString"
+			],
+			[
+				"ca",
+				"callbackErro"
+			],
+			[
+				"callba",
+				"callbackErro"
+			],
+			[
+				"call",
+				"callbackSucesso"
+			],
+			[
+				"ser",
+				"serie3"
+			],
+			[
+				"seri",
+				"serie2"
+			],
+			[
+				"ma",
+				"map\tTag"
+			],
+			[
+				"font",
+				"font-family\tproperty"
+			],
+			[
+				"pad",
+				"padding\tproperty"
+			],
+			[
+				"margi",
+				"margin\tproperty"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"num",
+				"num1"
+			],
+			[
+				"fa",
+				"faltas_maximas"
+			],
+			[
+				"va",
+				"variavel1"
+			],
+			[
+				"var",
+				"variavel2"
+			],
+			[
+				"v",
+				"variavel2"
+			],
+			[
+				"vari",
+				"variavel1"
+			],
+			[
+				"numero",
+				"numeroInteiro"
+			],
+			[
+				"col",
+				"col-md-2"
+			],
+			[
+				"col-",
+				"col-md-2"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"trans",
+				"transform\tproperty"
+			],
+			[
+				"border",
+				"border-radius\tproperty"
+			],
+			[
+				"btn-",
+				"btn-custom"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"bac",
+				"background\tproperty"
+			],
+			[
+				"i",
+				"img\tTag"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"text-",
+				"text-decoration\tproperty"
+			],
+			[
+				"pa",
+				"padding\tproperty"
+			],
+			[
+				"padd",
+				"padding\tproperty"
+			],
+			[
+				"img",
+				"img-fluid"
+			],
+			[
+				"al",
+				"align-self-center"
+			],
+			[
+				"d-",
+				"d-flex"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"nav-",
+				"nav-principal"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"fl",
+				"flex-wrap"
+			],
+			[
+				"ali",
+				"align-self-ALINHAMENTO"
+			],
+			[
+				"fle",
+				"flex-column"
+			],
+			[
+				"alin",
+				"align-items-ALINHAMENTO"
+			],
+			[
+				"of",
+				"offset-md-3"
+			],
+			[
+				"marcador",
+				"marcador-container"
+			],
+			[
+				"marca",
+				"marcador-container"
+			],
+			[
+				"styl",
+				"style"
+			],
+			[
+				"text",
+				"text-white"
+			],
+			[
+				"btn-outline-",
+				"btn-outline-primary"
+			],
+			[
+				"btn",
+				"btn-outline-danger"
+			],
+			[
+				"car",
+				"card-body"
+			],
+			[
+				"pag",
+				"pagination"
+			],
+			[
+				"tabl",
+				"table-responsive"
+			],
+			[
+				"tab",
+				"table-sm"
+			],
+			[
+				"th",
+				"thead"
+			],
+			[
+				"bg",
+				"bg-success"
+			],
+			[
+				"prog",
+				"progress"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"progr",
+				"progress-bar"
+			],
+			[
+				"pro",
+				"progress-bar"
+			],
+			[
+				"ale",
+				"alert"
+			],
+			[
+				"aler",
+				"alert-success"
+			],
+			[
+				"input",
+				"input-group"
+			],
+			[
+				"is",
+				"is-invalid"
+			],
+			[
+				"is-",
+				"is-valid"
+			],
+			[
+				"form",
+				"form-control"
+			],
+			[
+				"fomr",
+				"form-control"
+			],
+			[
+				"custom",
+				"custom-file"
+			],
+			[
+				"c",
+				"class\tAttr"
+			],
+			[
+				"bre",
+				"breadcrumb-item"
+			],
+			[
+				"ba",
+				"badge-"
+			],
+			[
+				"fixed",
+				"fixed-top"
+			],
+			[
+				"bg-",
+				"bg-light"
+			],
+			[
+				"max-",
+				"max-width\tproperty"
+			],
+			[
+				"min-",
+				"min-width\tproperty"
+			],
+			[
+				"rounde",
+				"rounded-circle"
+			],
+			[
+				"rounded",
+				"rounded-right"
+			],
+			[
+				"margin",
+				"margin\tproperty"
+			],
+			[
+				"fo",
+				"footer\tTag"
+			],
+			[
+				"hea",
+				"header\tTag"
+			],
+			[
+				"flex",
+				"flex-basis\tproperty"
+			],
+			[
+				"item",
+				"item3"
+			],
+			[
+				"ite",
+				"item1"
+			],
+			[
+				"or",
+				"order4"
+			],
+			[
+				"o",
+				"order1"
+			],
+			[
+				"anima",
+				"animation-direction\tproperty"
+			],
+			[
+				"ani",
+				"animation-iteration-count\tproperty"
+			],
+			[
+				"box",
+				"box-shadow\tproperty"
+			],
+			[
+				"b",
+				"button\tTag"
+			],
+			[
+				"co",
+				"cover\tbackground-size"
+			],
+			[
+				"min",
+				"min-width\tproperty"
+			],
+			[
+				"bor",
+				"border-bottom\tproperty"
+			],
+			[
+				"p",
+				"padding\tproperty"
+			],
+			[
+				"background-c",
+				"background-color\tproperty"
+			],
+			[
+				"mr",
+				"margin\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"background",
+				"background\tproperty"
+			],
+			[
+				"le",
+				"letter-spacing\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 79.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/5 Semestre_2021/Desen Web/atividade1"
+	],
+	"file_history":
+	[
+		"/C/5 Semestre_2021/Desen Web/atividade1/imagens/ifsp.png",
+		"/C/5 Semestre_2021/Desen Web/atividades em aula/Segunda-atividade/atividade.1/estilo.css",
+		"/C/5 Semestre_2021/Desen Web/atividade1/formulario.html",
+		"/C/5 Semestre_2021/Desen Web/atividade1/css/estilo.css",
+		"/C/Users/Eli Reseda/Desktop/Udemy/ES6/objeto_literal.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/ES6/oo_pilar_do_polimorfismo.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/ES6/operador_super.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/ES6/oo_pilar_da_heranca.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/ES6/oo_pilar_da_abstracao_reflexao.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/ES6/funcoes_arrow_funcion.html",
+		"/C/Users/ELIRES~1/AppData/Local/Temp/Rar$DRa10008.39861/arquivos_da_aula/oo_pilar_da_abstracao.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/ES6/oo_pilar_da_abstração.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/ES6/funcoes_parametros_default.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/ES6/template_string.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/ES6/template_string.htlm",
+		"/C/Users/Eli Reseda/Desktop/Udemy/ES6/const.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/ES6/var_let.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/ES6/configuração_babel.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/App2/estilo.css",
+		"/C/Users/Eli Reseda/Desktop/Udemy/App2/jogo.js",
+		"/C/Users/Eli Reseda/Desktop/Udemy/App2/app.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/bom_timing.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/bom_location.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/bom_screen.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/bom_window.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/tratamentos_erros.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/funcoes1.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/foreach.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/forin.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/tabuada1.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/lacos_pratica_2html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/lacos_pratica_1.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/for.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/while.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/do_while.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/array_ordenacao.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/exercicios_ordenacao.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/array_pesquisa.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/array_incluir_remover.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/array_multidimensional.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/arquivos_necessarios/index.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/arquivos_necessarios/array_basico.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/arquivos_necessarios/array.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/exercicios_fixação.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/dom_manipulando_classes_elementos.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/dom_manipulando_estilos_elementos.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/dom_manipulando_valores_inputs_text.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/dom_selecionando_elementos.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/eventos_formulario.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/evento_janela.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/eventos_mouse.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/eventos_teclado.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/exercicio.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/funcoes_datas.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/funcoes_strings.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/funcoes_matematicas.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/funcoes_callback.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/funcoes.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/escopo_variaveis.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/funcoes_anonimas.html",
+		"/C/5 Semestre_2021/Desen Web/atividades em aula/Segunda-atividade/mariasemvergonha.html",
+		"/C/5 Semestre_2021/Desen Web/atividades em aula/Segunda-atividade/index.html",
+		"/C/5 Semestre_2021/Desen Web/atividades em aula/Segunda-atividade/grama.html",
+		"/C/5 Semestre_2021/Desen Web/atividades em aula/Segunda-atividade/cicajaponesa.html",
+		"/C/5 Semestre_2021/Desen Web/atividades em aula/Segunda-atividade/bromelia.html",
+		"/C/5 Semestre_2021/Desen Web/atividades em aula/Segunda-atividade/atvidades-em-aulas-Web-I/index.html",
+		"/C/5 Semestre_2021/Desen Web/atividades em aula/Segunda-atividade/atvidades-em-aulas-Web-I/bromelia.html",
+		"/C/5 Semestre_2021/Desen Web/atividades em aula/Segunda-atividade/atvidades-em-aulas-Web-I/cicajaponesa.html",
+		"/C/5 Semestre_2021/Desen Web/atividades em aula/Segunda-atividade/atvidades-em-aulas-Web-I/grama.html",
+		"/C/5 Semestre_2021/Desen Web/atividades em aula/Segunda-atividade/css/estilo.css",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/operadores_aritm.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/switch.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/atividade de fixação.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/ifelse_operadores_logicos.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/casting.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/desafio.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/ifelse_operadores_condicionais.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/variaveis2.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/concatenacao.html",
+		"/C/5 Semestre_2021/Desen Web/atividades em aula/pagina1.html",
+		"/C/5 Semestre_2021/Desen Web/atividades em aula/Meusite.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/variaveis.html",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/meu_script.js",
+		"/C/Users/Eli Reseda/Documents/ProjetoWeb/JavaScript/index.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/projeto-inicial-spotify/index.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/projeto-inicial-spotify/css/estilo.css",
+		"/C/Users/Eli Reseda/Desktop/Udemy/projeto-inicial-spotify/carousel/apoio-carousel.html",
+		"/C/Users/ELIRES~1/AppData/Local/Temp/Rar$DRa6848.21145/carousel/apoio-carousel.html",
+		"/C/Users/ELIRES~1/AppData/Local/Temp/Rar$DRa9992.9987/projeto-inicial-spotify/css/estilo.css",
+		"/C/Users/ELIRES~1/AppData/Local/Temp/Rar$DRa9992.9987/projeto-inicial-spotify/index.html",
+		"/C/Users/Eli Reseda/Desktop/ProjetoWe-I/css/estilo.css",
+		"/C/Users/Eli Reseda/Desktop/ProjetoWe-I/index.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/financ/index.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/financ/css/estilo.css",
+		"/C/Users/Eli Reseda/Desktop/Udemy/financ/e.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/projeto-bootstrap4/index.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-margin-wrap.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-classes-flexbox.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-alinhamento-grid.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-configuracoes-grid.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-grid.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-font-awesome.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-jumbotron-alinhamento-imagens.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-cartoes-parte1.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/codigoscss/123.Tabelas & Paginação-parte2.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-alertas-barra-progresso.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-input-group.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-formularios.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-listas.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-barra-navegacao.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/media-query/index.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-breakpoint.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/apoio-botoes.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/media-query/estilos.css",
+		"/C/Users/Eli Reseda/Desktop/Udemy/media-query/estilo-impressao.css",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/tamanhos & bordas.html",
+		"/C/Users/Eli Reseda/Desktop/bootstrap4/elementos-flutuantes.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/Museu Nacional/index.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/Museu Nacional/css/estilo.css",
+		"/C/Users/Eli Reseda/Desktop/Udemy/Museu Nacional/css/normalize.css",
+		"/C/Users/Eli Reseda/Desktop/Udemy/html5/css/estilo.css",
+		"/C/Users/Eli Reseda/Desktop/Udemy/html5/Flex-box-container.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/html5/Flex-box-xontainer.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/html5/js/html5shiv.js",
+		"/C/Users/Eli Reseda/Desktop/Udemy/css3 Recursos/css/estilo.css",
+		"/C/Users/Eli Reseda/Desktop/Udemy/css3 Recursos/transições.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/css3 Recursos/border-radius-box-sizing.html",
+		"/C/Users/Eli Reseda/Desktop/Udemy/css3 Recursos/css/normalize.css"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 116.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 44.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "atividade.1.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"ES6\\configuração_babel.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
